@@ -4,15 +4,9 @@ I just submitted the final thesis of my Ph.D. of the Doctoral School in Computat
 
 My main research interests are Numerical methods for Signals and Systems.
  
- 
-[](https://learn.eduopen.org/eduopenv2/pathway_details.php?specialid=57)
+#### Links:
 
-[website][https://learn.eduopen.org/eduopenv2/pathway_details.php?specialid=57]
-
-
-<https://learn.eduopen.org/eduopenv2/pathway_details.php?specialid=57>
+Corso Mooc [Calcolo Scientifico in Python]
 
 
-[Corso Mooc]
-
-[Corso Mooc]: https://learn.eduopen.org/eduopenv2/pathway_details.php?specialid=57
+[Calcolo Scientifico in Python]: https://learn.eduopen.org/eduopenv2/pathway_details.php?specialid=57
